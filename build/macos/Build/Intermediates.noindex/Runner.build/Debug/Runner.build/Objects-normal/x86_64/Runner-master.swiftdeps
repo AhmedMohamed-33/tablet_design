@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "0dd2edfd784e8cdb734d192f0089601c8a8e551c858f466d7177c995c0d341d0"
+build_start_time: [1719997345, 849796056]
+build_end_time: [1719997351, 715581893]
+inputs:
+  "/Users/mahmoud/Documents/tablet_design/macos/Flutter/GeneratedPluginRegistrant.swift": [1719997321, 324926376]
+  "/Users/mahmoud/Documents/tablet_design/macos/Runner/AppDelegate.swift": [1675925120, 0]
+  "/Users/mahmoud/Documents/tablet_design/macos/Runner/MainFlutterWindow.swift": [1690205601, 51782131]
